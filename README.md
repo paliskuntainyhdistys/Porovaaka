@@ -22,13 +22,5 @@ Ensiasennuksen asetustiedosto on **Lisatiedostot → Aloitusasetukset** -kansios
 Se tuodaan Porovaakan sisältä ennen ensimmäisen erän luomista. Päivityksessä
 asetuksia ei tuoda uudelleen; ota ensin varmuuskopio ja käytä samaa Windows-tiliä.
 
-## Ohjeet päivitetty 2.10.2026
-
-Paketissa on sama **1.7.9-asennusohjelma** kuin 25.9.2026 toimituksessa.
-Tämä päivitys selkeyttää paketin rakennetta ja ohjeita. Jo asennettua ohjelmaa
+Paketissa on sama **1.7.9-asennusohjelma** kuin aiemmin. Jo asennettua ohjelmaa
 ei tarvitse asentaa uudelleen näiden ohjeiden vuoksi.
-
-Asennusohjelma on allekirjoittamaton. Jos Windows estää avaamisen, lähetä kuva
-ilmoituksesta käyttöönotosta vastaavalle henkilölle.
-
-[Julkaisutiedot ja tarkistussumma](https://github.com/paliskuntainyhdistys/porovaaka-179/releases/tag/v1.7.9-paketti-20261002)
