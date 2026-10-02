@@ -16,15 +16,3 @@ suomenkieliset ohjeet, FTDI-ajurit sekä tarkistussummat.
 
 Päivityksessä ota ensin varmuuskopio. Suorita asennus samalla Windows-tilillä;
 aloitusasetuksia ei tuoda uudelleen.
-
-## Toimitus 25.9.2026
-
-Versionumero on edelleen **1.7.9**. Tämä toimitus sisältää **Muut → Yhteenveto**
--näkymän suodattimineen, enintään viiden erän pikavalinnan sekä
-**Kaikki punnituserät…** -painikkeen poiston Aloitusnäkymästä.
-
-Asennus, käynnistys, uudelleenasennus ja poisto on testattu erillisillä
-synteettisillä tiedoilla. Varmista myös asiakkaan vaakalaitteen toiminta ennen
-tuotantokäyttöä. Asennusohjelma on allekirjoittamaton.
-
-[Kaikki lataukset ja julkaisutiedot](https://github.com/paliskuntainyhdistys/porovaaka-179/releases/tag/v1.7.9-20260925)
