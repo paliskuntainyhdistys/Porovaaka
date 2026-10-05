@@ -27,13 +27,3 @@ asetuksia ei tuoda uudelleen; ota ensin varmuuskopio ja käytä samaa Windows-ti
 Versio **1.8.0 (5.10.2026)** pitää kohdistuksen Pilttanumero-kentässä, kun tavallinen
 Enter tai numeronäppäimistön Enter saapuu tyhjään tai keskeneräiseen kenttään.
 Tämä koskee myös lukijan loppu-Enteriä automaattisen tallennuksen jälkeen.
-Neljäs numero siirtää edelleen Painoon; Tab ja tallennussäännöt toimivat kuten ennen.
-Tietokannan rakenne ei muutu. Asiakkaan fyysisen lukijan hyväksyntäkoe on vielä tehtävä.
-
-Vihreä kuvake, pikakuvakevalinta ja aiemmin hyväksytyt aloitusasetukset sekä FTDI-ajurit
-säilyvät paketissa. Päivitys asennetaan samalla Windows-käyttäjätilillä.
-
-[Erillinen asennusohjelma](https://github.com/paliskuntainyhdistys/Porovaaka/releases/download/v1.8.0/Porovaaka-Setup-1.8.0.exe)
-ja [SHA-256-tarkistussummat](https://github.com/paliskuntainyhdistys/Porovaaka/releases/download/v1.8.0/SHA256SUMS.txt)
-ovat saatavilla myös erikseen. Aiemmat toimitukset säilyvät
-[julkaisuhistoriassa](https://github.com/paliskuntainyhdistys/Porovaaka/releases).
