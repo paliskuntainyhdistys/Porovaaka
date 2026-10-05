@@ -1,6 +1,6 @@
 # Porovaaka 1.8.0 – Windows-asennus
 
-**[Lataa asennuspaketti (ZIP)](https://github.com/paliskuntainyhdistys/porovaaka-179/releases/download/v1.8.0/Porovaaka-1.8.0-Windows-x64.zip)**
+**[Lataa asennuspaketti (ZIP)](https://github.com/paliskuntainyhdistys/Porovaaka/releases/download/v1.8.0/Porovaaka-1.8.0-Windows-x64.zip)**
 
 Windows 10/11, Intel/AMD x64. Suomenkielinen aloitusohje toimii myös ilman internetiä.
 
@@ -33,7 +33,7 @@ Tietokannan rakenne ei muutu. Asiakkaan fyysisen lukijan hyväksyntäkoe on viel
 Vihreä kuvake, pikakuvakevalinta ja aiemmin hyväksytyt aloitusasetukset sekä FTDI-ajurit
 säilyvät paketissa. Päivitys asennetaan samalla Windows-käyttäjätilillä.
 
-[Erillinen asennusohjelma](https://github.com/paliskuntainyhdistys/porovaaka-179/releases/download/v1.8.0/Porovaaka-Setup-1.8.0.exe)
-ja [SHA-256-tarkistussummat](https://github.com/paliskuntainyhdistys/porovaaka-179/releases/download/v1.8.0/SHA256SUMS.txt)
+[Erillinen asennusohjelma](https://github.com/paliskuntainyhdistys/Porovaaka/releases/download/v1.8.0/Porovaaka-Setup-1.8.0.exe)
+ja [SHA-256-tarkistussummat](https://github.com/paliskuntainyhdistys/Porovaaka/releases/download/v1.8.0/SHA256SUMS.txt)
 ovat saatavilla myös erikseen. Aiemmat toimitukset säilyvät
-[julkaisuhistoriassa](https://github.com/paliskuntainyhdistys/porovaaka-179/releases).
+[julkaisuhistoriassa](https://github.com/paliskuntainyhdistys/Porovaaka/releases).
