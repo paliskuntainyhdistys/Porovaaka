@@ -1,6 +1,6 @@
-# Porovaaka 1.8.1 – Windows-asennus
+# Porovaaka 1.8.2 – Windows-asennus
 
-**[Lataa asennuspaketti (ZIP)](https://github.com/paliskuntainyhdistys/Porovaaka/releases/download/v1.8.1/Porovaaka-1.8.1-Windows-x64.zip)**
+**[Lataa asennuspaketti (ZIP)](https://github.com/paliskuntainyhdistys/Porovaaka/releases/download/v1.8.2/Porovaaka-1.8.2-Windows-x64.zip)**
 
 Windows 10/11, Intel/AMD x64. Suomenkielinen aloitusohje toimii myös ilman internetiä.
 
@@ -17,7 +17,7 @@ Puretun kansion ensimmäisellä tasolla on vain kolme kohdetta:
 | Tiedosto tai kansio | Käyttötarkoitus |
 |---|---|
 | **ALOITA-TASTA.html** | Avaa ensin. Asennusohje avautuu selaimessa. |
-| **Porovaaka-Setup-1.8.1.exe** | Asennusohjelma, joka avataan ohjeen vaiheessa 2. |
+| **Porovaaka-Setup-1.8.2.exe** | Asennusohjelma, joka avataan ohjeen vaiheessa 2. |
 | **Lisatiedostot** | Aloitusasetukset, lisäohjeet, ajurit ja teknisen tuen tiedot. |
 
 Ensiasennuksen asetustiedosto on **Lisatiedostot → Aloitusasetukset** -kansiossa.
@@ -25,29 +25,34 @@ Se tuodaan Porovaakan sisältä ennen ensimmäisen erän luomista. Päivityksess
 asetuksia ei tuoda uudelleen; ota ensin varmuuskopio, sulje Porovaaka ja suorita
 asennusohjelma samalla Windows-tilillä. Punnitukset ja asetukset säilyvät.
 
-## Uutta versiossa 1.8.1 (21.10.2026)
+## Uutta versiossa 1.8.2 (3.11.2026)
 
-- **Keskittymistila** avautuu omaan ikkunaan. Suuret Pilttanumero- ja Paino-kentät,
-  väripalautteet, viimeisimmät tallennukset sekä erän ruhojen määrä ja yhteispaino
-  auttavat punnituksessa.
-- **Kotiin**-kohteelle voi antaa vastaanottajan nimen omistajakohtaisia punnituksia varten.
-- **Muut → Sisäelimet** tallentaa erän sydänten, maksojen ja kielten määrät.
-  Vapaaehtoiset tiedot näkyvät Lähetyslistassa.
-- **Lähetyslista** käyttää paperin tehokkaammin. Mukana ovat Tulosta-painike,
-  tiiviimpi esikatselu, Ruhojen yhteispaino ja Ruhojen keskipaino sekä lähettäjän
-  ja vastaanottajan nimi- ja allekirjoituskentät.
+- **Nopeampi tallennus** palauttaa kohdistuksen Pilttanumeroon onnistuneen
+  tietokantatallennuksen jälkeen. Punnitustaulukkoa ja Keskittymistilaa päivitetään
+  kevyemmin myös historian kasvaessa.
+- **Varmuuskopiointi taustalla**: erillinen varmuuskopio voi olla hetken jäljessä
+  jo tallennetuista punnituksista. Häiriöstä näkyy pysyvä ilmoitus, ja ohjelma
+  yrittää uudelleen. Suljettaessa ohjelma odottaa viimeisintä varmuuskopiota.
+- **Sisäelimet**-painike on suoraan Vie Lukuporo-tiedosto- ja Lähetyslista-painikkeiden
+  vieressä. Piltta-/painohaku vie vähemmän tilaa.
+- Uuden erän **Punnituspäivä** ja **Teurastuspäivä** ovat erilliset päivämäärät.
+  Molemmat näkyvät Lähetyslistan Teurastamo-osassa Punnituserän ja Ruhon lämpötilan
+  välissä, myös PDF:ssä ja Excelissä. Vanhan puuttuvan teurastuspäivän kohdalla
+  lukee **Ei tallennettu**.
 
-Version 1.8.0 Enter-kohdistuksen korjaus sisältyy myös tähän versioon.
+Keskittymistila, Kotiin-vastaanottajat, elinten määrät ja Lähetyslistan tulostus sekä
+allekirjoituskentät sisältyvät edelleen ohjelmaan. Vaa'an vakausvaatimus ja kahden
+sekunnin lukeman tuoreusraja säilyvät.
 
-[Erillinen asennusohjelma](https://github.com/paliskuntainyhdistys/Porovaaka/releases/download/v1.8.1/Porovaaka-Setup-1.8.1.exe)
-ja [SHA-256-tarkistussummat](https://github.com/paliskuntainyhdistys/Porovaaka/releases/download/v1.8.1/SHA256SUMS.txt)
+[Erillinen asennusohjelma](https://github.com/paliskuntainyhdistys/Porovaaka/releases/download/v1.8.2/Porovaaka-Setup-1.8.2.exe)
+ja [SHA-256-tarkistussummat](https://github.com/paliskuntainyhdistys/Porovaaka/releases/download/v1.8.2/SHA256SUMS.txt)
 ovat saatavilla myös erikseen.
 
 ## Aiemmat versiot
 
-[Porovaaka 1.8.0](https://github.com/paliskuntainyhdistys/Porovaaka/releases/tag/v1.8.0)
+[Porovaaka 1.8.1](https://github.com/paliskuntainyhdistys/Porovaaka/releases/tag/v1.8.1)
 ja sitä vanhemmat julkaisut säilyvät [julkaisuhistoriassa](https://github.com/paliskuntainyhdistys/Porovaaka/releases).
 
-Versio 1.8.1 päivittää tietokannan ja ottaa siitä automaattisen varmuuskopion ennen
-muutosta. **Paluu versioon 1.8.0 edellyttää ennen päivitystä otetun varmuuskopion
+Versio 1.8.2 päivittää tietokannan ja varmistaa automaattisen varmuuskopion ennen
+muutosta. **Paluu versioon 1.8.1 edellyttää ennen päivitystä otetun varmuuskopion
 palauttamista.** Päivityksen jälkeiset punnitukset eivät sisälly tähän varmuuskopioon.
