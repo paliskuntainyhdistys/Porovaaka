@@ -40,9 +40,6 @@ asennusohjelma samalla Windows-tilillä. Punnitukset ja asetukset säilyvät.
   välissä, myös PDF:ssä ja Excelissä. Vanhan puuttuvan teurastuspäivän kohdalla
   lukee **Ei tallennettu**.
 
-Keskittymistila, Kotiin-vastaanottajat, elinten määrät ja Lähetyslistan tulostus sekä
-allekirjoituskentät sisältyvät edelleen ohjelmaan. Vaa'an vakausvaatimus ja kahden
-sekunnin lukeman tuoreusraja säilyvät.
 
 [Erillinen asennusohjelma](https://github.com/paliskuntainyhdistys/Porovaaka/releases/download/v1.8.2/Porovaaka-Setup-1.8.2.exe)
 ja [SHA-256-tarkistussummat](https://github.com/paliskuntainyhdistys/Porovaaka/releases/download/v1.8.2/SHA256SUMS.txt)
