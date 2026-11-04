@@ -4,10 +4,6 @@
 
 Windows 10/11, Intel/AMD x64. Suomenkielinen aloitusohje toimii myös ilman internetiä.
 
-**Päivitetty 3.11.2026:** painovaroituksen rajat ovat nyt **10–100 kg**.
-Jos asensit jo 1.8.2:n, suorita tämä päivitetty asennusohjelma sen päälle.
-Versionumero pysyy 1.8.2:ssa, ja punnitukset sekä asetukset säilyvät.
-
 1. Lataa ZIP yllä olevasta linkistä.
 2. Napsauta ladattua tiedostoa hiiren oikealla painikkeella: **Pura kaikki… → Pura**.
 3. Avaa puretusta kansiosta **ALOITA-TASTA.html**.
